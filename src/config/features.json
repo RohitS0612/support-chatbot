@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "24/7 Availability",
+      "description": "Our AI support assistant is always available to help your customers, anytime day or night.",
+      "icon": "🕐"
+    },
+    {
+      "id": 2,
+      "title": "Instant Responses",
+      "description": "Get immediate answers to customer questions with our intelligent response system.",
+      "icon": "⚡"
+    },
+    {
+      "id": 3,
+      "title": "Cost Effective",
+      "description": "Reduce support costs by automating common inquiries and freeing up human agents.",
+      "icon": "💰"
+    },
+    {
+      "id": 4,
+      "title": "Multi-language Support",
+      "description": "Communicate with customers in their preferred language with our AI translation capabilities.",
+      "icon": "🌍"
+    },
+    {
+      "id": 5,
+      "title": "Easy Integration",
+      "description": "Seamlessly integrate with your existing website and customer support systems.",
+      "icon": "🔗"
+    },
+    {
+      "id": 6,
+      "title": "Analytics & Insights",
+      "description": "Track customer interactions and gain valuable insights into support performance.",
+      "icon": "📊"
+    }
+  ]
+}
